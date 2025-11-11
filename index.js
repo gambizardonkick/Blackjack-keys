@@ -4,6 +4,4 @@ const keys = [
   "key_3_example"
 ];
 
-keys.forEach((key, index) => {
-  console.log(`(${index + 1}) ${key}`);
-});
+console.log(keys.join(", "));
