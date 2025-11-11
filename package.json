@@ -1,11 +1,10 @@
 {
   "name": "key-viewer",
   "version": "1.0.0",
-  "description": "A simple app to store and show keys",
+  "description": "Shows stored keys inline",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {}
+  }
 }
